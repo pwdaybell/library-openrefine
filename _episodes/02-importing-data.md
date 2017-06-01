@@ -28,7 +28,7 @@ If you haven't already, at this point download [doaj-article-sample.csv](https:/
 
 >## Exercise 1: Create your first Open Refine project (using provided data)
 >
->To import the data for the exercises below, run OpenRefine. *NOTE: If Open Refine does not open in a browser window, open your browser and type the address <http://127.0.0.1:3333/> to take you to the Open Refine interface.*
+>To import the data for the exercises below, run OpenRefine. If you haven't already download OpenRefine at http://openrefine.org/download.html *NOTE: If Open Refine does not open in a browser window, open your browser and type the address <http://127.0.0.1:3333/> to take you to the Open Refine interface.*
 >
 >1. Locate the file which you have downloaded called `doaj-article-sample.csv`
 >2. Click 'Next'
